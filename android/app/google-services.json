@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309017987106",
+    "firebase_url": "https://flash-chat-bfc9b.firebaseio.com",
+    "project_id": "flash-chat-bfc9b",
+    "storage_bucket": "flash-chat-bfc9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309017987106:android:6409db213283cb3de9227b",
+        "android_client_info": {
+          "package_name": "co.zaki.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309017987106-j62n4q53dnh0rrugam3ajgaotf5dpab6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwfa2Wg9ZN-fPXV67887K9YbZQVkRHMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309017987106-j62n4q53dnh0rrugam3ajgaotf5dpab6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
